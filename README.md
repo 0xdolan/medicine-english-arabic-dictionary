@@ -114,4 +114,4 @@ Download MDD (N/A)
 I hope you like this dictionary. Feel free to reach out if you have questions or if you want to contribute in any way:
 
 - **[Twitter](http://www.twitter.com/0xdolan)**
-- **E-mail: [0xdolan@mail.com](mailto:0xdolan@mail.com)**
+- **E-mail: [0xdolan@gmail.com](mailto:0xdolan@gmail.com)**
